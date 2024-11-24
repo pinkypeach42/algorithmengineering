@@ -1,0 +1,6 @@
+# ninja log v6
+7	261	7541769490833969	build.ninja	aaea800b94e6a8db
+5	434	7541571291706999	CMakeFiles/MonteCarloPi.dir/main.cpp.obj	9d01aba35f137939
+435	700	7541571296002906	MonteCarloPi.exe	acf598d2ce2e332d
+7	456	7541769561251602	CMakeFiles/MonteCarloPi.dir/main.cpp.obj	ee0d9cfa95efe37b
+456	721	7541769565741390	MonteCarloPi.exe	acf598d2ce2e332d
